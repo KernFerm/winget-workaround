@@ -48,7 +48,7 @@ C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppI
 - Click **New**, then paste the folder path (remember, without `\winget.exe`):
 
 ```
-C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\
 ```
 - Copy what you see in your `URL Bar` and paste it in the Environmental Variables.
 - Click **OK** to save your changes and close all dialog boxes.
