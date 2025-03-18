@@ -14,7 +14,8 @@ Many users have experienced issues where **winget** (the Windows Package Manager
 
 ### 1. Locate `winget.exe` 🔍
 - %LOCALAPPDATA%\Microsoft\WindowsApps
-Find the full path to `winget.exe`. It might look something like:
+
+- Find the full path to `winget.exe`. It might look something like:
 
 ```
 C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\winget.exe
