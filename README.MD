@@ -14,6 +14,15 @@ Many users have experienced issues where **winget** (the Windows Package Manager
 
 ### 1. Locate `winget.exe` 🔍
 - %LOCALAPPDATA%\Microsoft\WindowsApps
+- Where To `copy` & `paste`
+**copy this below and paste it in the location where it says `Home` in the image.**
+```
+%LOCALAPPDATA%\Microsoft\WindowsApps
+```
+<p align="left">
+  <img src="https://github.com/KernFerm/winget-workaround/blob/main/image.png" width="300" alt="image">
+</p>
+
 
 - Find the full path to `winget.exe`. It might look something like:
 
