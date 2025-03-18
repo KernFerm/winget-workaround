@@ -56,6 +56,7 @@ Close and reopen Command Prompt, PowerShell, or Windows Terminal so that the upd
 Open a new terminal window and run:
 ```shell
 winget --version
+```
 
 - You should see the winget version displayed, confirming that everything is working!
 
