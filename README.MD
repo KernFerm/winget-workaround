@@ -20,7 +20,7 @@ Many users have experienced issues where **winget** (the Windows Package Manager
 %LOCALAPPDATA%\Microsoft\WindowsApps
 ```
 <p align="left">
-  <img src="https://github.com/KernFerm/winget-workaround/blob/main/image.png" width="300" alt="image">
+  <img src="https://github.com/KernFerm/winget-workaround/blob/main/image.png" width="500" alt="image">
 </p>
 
 
