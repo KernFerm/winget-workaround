@@ -13,6 +13,7 @@ Many users have experienced issues where **winget** (the Windows Package Manager
 ## Steps to Manually Add winget to Your PATH 🔧
 
 ### 1. Locate `winget.exe` 🔍
+- Open `File Explorer`, the folder icon on the taskbar.
 - %LOCALAPPDATA%\Microsoft\WindowsApps
 - Where To `copy` & `paste`
 **copy this below and paste it in the location where it says `Home` in the image.**
@@ -49,7 +50,7 @@ C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppI
 ```
 C:\Users<YourUserName>\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
 ```
-
+- Copy what you see in your `URL Bar` and paste it in the Environmental Variables.
 - Click **OK** to save your changes and close all dialog boxes.
 
 ---
